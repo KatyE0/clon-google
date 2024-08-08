@@ -46,7 +46,7 @@ nav {
 main{
     display: flex;
     justify-content: center;
-    height: 67vh;
+    height: 75vh;
 }
 #logo{
     margin-top: 5vh;
